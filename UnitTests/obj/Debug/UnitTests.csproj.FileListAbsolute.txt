@@ -1,0 +1,10 @@
+D:\docum\_PROJECTS\CSharp\SportsStore\UnitTests\bin\Debug\UnitTests.dll
+D:\docum\_PROJECTS\CSharp\SportsStore\UnitTests\bin\Debug\UnitTests.pdb
+D:\docum\_PROJECTS\CSharp\SportsStore\UnitTests\bin\Debug\Moq.dll
+D:\docum\_PROJECTS\CSharp\SportsStore\UnitTests\bin\Debug\Ninject.dll
+D:\docum\_PROJECTS\CSharp\SportsStore\UnitTests\bin\Debug\Moq.xml
+D:\docum\_PROJECTS\CSharp\SportsStore\UnitTests\bin\Debug\Ninject.pdb
+D:\docum\_PROJECTS\CSharp\SportsStore\UnitTests\bin\Debug\Ninject.xml
+D:\docum\_PROJECTS\CSharp\SportsStore\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+D:\docum\_PROJECTS\CSharp\SportsStore\UnitTests\obj\Debug\UnitTests.dll
+D:\docum\_PROJECTS\CSharp\SportsStore\UnitTests\obj\Debug\UnitTests.pdb
